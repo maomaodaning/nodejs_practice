@@ -1,0 +1,4 @@
+You said it is necessary to fullfill the form that includes the links
+to my GitHub repo with solutions and Notion Progress Page, but the form contains
+ONLY the field for GitHub link, so I leave Notion link here:
+https://phantom-fork-08e.notion.site/TIMOFEI-SAVIN-Course-Progress-Checklist-dfca66ddf8ca82dbb6a3018cc56a8013?source=copy_link
